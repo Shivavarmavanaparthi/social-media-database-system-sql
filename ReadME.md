@@ -1,4 +1,4 @@
-# Social Media Database system (Instagram) (SQL Project)
+# Social Media Database system (SQL Project)
 
 ## Overview
 Designed and implemented a relational database system simulating core Instagram features using SQL.
